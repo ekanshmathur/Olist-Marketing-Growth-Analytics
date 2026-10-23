@@ -51,13 +51,13 @@ Post-acquisition sales represent product sales from delivered orders placed on o
 
 ### Dashboard 1 — Marketing & Growth Overview
 
-
+![Marketing Dashboard](05_Dashboard_Screenshots/Dashboard_Page_1.png)
 
 Visualizes marketing lead volume, closed deals, conversion rates, and post-acquisition sales across acquisition channels.
 
 ### Dashboard 2 — Seller Acquisition & Performance
 
-
+![Seller Dashboard](05_Dashboard_Screenshots/Dashboard_Page_2.png)
 
 Highlights active acquired sellers, sales per active seller, channel-level seller performance, and sales concentration.
 
